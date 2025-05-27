@@ -1,0 +1,5 @@
+pydantic_ai
+httpx
+uvicorn
+logfire
+python-dotenv
